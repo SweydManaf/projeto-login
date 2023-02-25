@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Login é uma página para início de sessão em um site.
+O projeto Login é uma página para início de sessão em um site desenvolvido aplicando a filosofia mobile-first.
 
 - [Visite o projeto online](https://sweydmanaf.github.io/projeto-login/)
 
