@@ -124,7 +124,7 @@ form > input[type=submit]{
     background-color: #49a09d;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
     cursor: pointer;
 }
 
@@ -140,7 +140,7 @@ form > a.botao{
     height: 40px;
     background-color: white;
     border: 1px solid #49a09d;
-    border-radius: 7px;
+    border-radius: 8px;
     text-decoration: none;
 
     color: #2d6462;
