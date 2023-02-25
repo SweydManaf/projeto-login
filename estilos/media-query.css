@@ -5,13 +5,14 @@
     --cor-lilas: #5f2c82;
 }
 
-@media screen and (min-width: 768px) and (max-width:992px) {
+@media screen and (min-width: 768px) and (max-width:992px) { /* CONFIGURAÇÃO PARA TABLET*/
     body{
         background-image: linear-gradient(to top, var(--cor-verde), var(--cor-lilas));
     }
 
     section#login{
         width: 90vw;
+        height: 280px;
     }
 
     section#login > div#imagem{
@@ -26,13 +27,14 @@
     }
 }
 
-@media screen and (min-width:992px) {
+@media screen and (min-width:992px) { /* CONFIGURAÇÕES PARA DESKTOP */
     body{
         background-image: linear-gradient(to top, var(--cor-verde), var(--cor-lilas));
     }
 
     section#login{
         width: 950px;
+        height: 350px;
     }
     section#login > div#imagem{
         float: right;
@@ -50,6 +52,7 @@
     }
 
     div#formulario > p{
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0;
     }
 }
